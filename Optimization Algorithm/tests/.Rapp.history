@@ -1,0 +1,3 @@
+getwd()
+library(devtools)
+devtools::test()
